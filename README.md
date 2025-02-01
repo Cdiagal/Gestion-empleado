@@ -45,7 +45,7 @@ Todas las clases contienen los mismos métodos, que por ahora son los siguientes
 ```java 
 
 public double calcularSalarioFinal(){
-        return getSalarioBase() * (% del cargo);
+        return getSalarioBase() + (% del cargo);
     }
 
 ```
